@@ -1,0 +1,46 @@
+[21-Sep-2022 14:54:57 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 87958376 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 31
+[21-Sep-2022 14:55:01 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 87958376 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 31
+[21-Sep-2022 16:06:31 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 87958376 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 31
+[21-Sep-2022 16:11:25 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 88040296 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 31
+[21-Sep-2022 16:11:34 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83886112 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 33
+[21-Sep-2022 16:11:46 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83886112 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 33
+[21-Sep-2022 16:13:23 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83886112 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 33
+[21-Sep-2022 16:13:53 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83886112 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 33
+[21-Sep-2022 16:14:20 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 167772192 bytes) in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 34
+[21-Sep-2022 10:51:48 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:52:02 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:54:24 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:54:58 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:55:02 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:56:23 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 10:58:29 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 11:01:37 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 11:02:07 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 11:03:00 UTC] PHP Notice:  Undefined variable: message in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 21
+[21-Sep-2022 11:06:01 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 4
+[21-Sep-2022 11:06:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 4
+[21-Sep-2022 11:08:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 4
+[21-Sep-2022 11:09:36 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 4
+[21-Sep-2022 11:17:20 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 4
+[21-Sep-2022 11:27:55 UTC] PHP Notice:  fputs(): send of 21 bytes failed with errno=32 Broken pipe in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/phpmailer/class.smtp.php on line 429
+[21-Sep-2022 17:23:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 9
+[21-Sep-2022 17:23:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 10
+[21-Sep-2022 17:23:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 11
+[21-Sep-2022 17:26:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 9
+[21-Sep-2022 17:26:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 10
+[21-Sep-2022 17:26:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/baxl6uih4woq/public_html/flexi-mou/gtvet/user/scripts/mail/welcome-mail.php on line 11
